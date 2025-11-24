@@ -111,3 +111,11 @@ ai
 宇宙
 飞船
 航空
+
+医疗器械
+QMS
+NMPA
+FDA
+ISO 13485
+21 CFR Part 820
+QMSR
